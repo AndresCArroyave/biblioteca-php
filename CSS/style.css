@@ -1,0 +1,10 @@
+body{
+    background-image: url('../IMG/fondo.jpg');
+    background-repeat: no-repeat;
+    background-size:  cover;
+}
+
+.bordes{
+    border: 3px dashed black;
+    border-radius: 20px;
+}
